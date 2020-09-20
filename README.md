@@ -36,8 +36,6 @@ Introductory task for the course «Software engineering»
  over - 1
  quick - 1
 
-Так же программе можно передать данные таким образом: 
->echo "the quick brown fox jumps over the lazy dog" | java SortingWords
 
 --------------------------
 ПРИМЕЧАНИЕ
